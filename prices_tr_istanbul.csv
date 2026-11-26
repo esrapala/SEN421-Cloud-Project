@@ -1,0 +1,27 @@
+category,item,spec,unit,price_usd,free_tier,source,accessed
+FunctionGraph,Requests,,per 1M requests (>1M/month),0.25,first 1M requests/month free,Huawei Cloud Price Calculator - Product Pricing Details - FunctionGraph - TR-Istanbul,2026-11-26
+FunctionGraph,Metering duration,,per GB-second (>400k GB-s/month),0.0000206667,first 400000 GB-s/month free,Huawei Cloud Price Calculator - Product Pricing Details - FunctionGraph - TR-Istanbul,2026-11-26
+FunctionGraph,Idle memory (reserved instances),,per GB-second,0.0000051108,,Huawei Cloud Price Calculator - Product Pricing Details - FunctionGraph - TR-Istanbul,2026-11-26
+APIG,Dedicated gateway Basic,"2,000 TPS",per hour,0.76,,Huawei Cloud Price Calculator - Product Pricing Details - API Gateway - TR-Istanbul,2026-11-26
+APIG,Dedicated gateway Professional,"4,000 TPS",per hour,3.46,,Huawei Cloud Price Calculator - Product Pricing Details - API Gateway - TR-Istanbul,2026-11-26
+APIG,Dedicated gateway Enterprise,"6,000 TPS",per hour,5.19,,Huawei Cloud Price Calculator - Product Pricing Details - API Gateway - TR-Istanbul,2026-11-26
+APIG,Dedicated gateway Platinum,"10,000 TPS",per hour,8.65,,Huawei Cloud Price Calculator - Product Pricing Details - API Gateway - TR-Istanbul,2026-11-26
+APIG,Public bandwidth,,per Mbit/s-hour,0.0178,,Huawei Cloud Price Calculator - Product Pricing Details - API Gateway - TR-Istanbul,2026-11-26
+ECS,General computing S7n,1 vCPU / 1 GiB,per hour (pay-per-use),0.0311,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+ECS,General computing S7n,1 vCPU / 2 GiB,per hour (pay-per-use),0.0341,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+ECS,General computing S7n,1 vCPU / 4 GiB,per hour (pay-per-use),0.0401,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+ECS,General computing S7n,2 vCPU / 4 GiB,per hour (pay-per-use),0.0682,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+ECS,General computing S7n,2 vCPU / 8 GiB,per hour (pay-per-use),0.0802,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+ECS,General computing S7n,4 vCPU / 8 GiB,per hour (pay-per-use),0.1364,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+ECS,General computing S7n,8 vCPU / 16 GiB,per hour (pay-per-use),0.2728,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+ECS,General computing-basic T6 (burstable),1 vCPU / 1 GiB,per hour (pay-per-use),0.0112,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+ECS,General computing-basic T6 (burstable),2 vCPU / 4 GiB,per hour (pay-per-use),0.0444,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul - Linux,2026-11-26
+EVS,General Purpose SSD,system disk,per GiB-hour,0.000143,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul,2026-11-26
+EIP,BGP IP reservation,,per EIP-hour,0.005,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul,2026-11-26
+EIP,Dynamic BGP by traffic,<=10 TB/month,per GB,0.0855,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul,2026-11-26
+EIP,Dynamic BGP by bandwidth,,per Mbit/s-hour,0.0178,,Huawei Cloud Price Calculator - Product Pricing Details - ECS - TR-Istanbul,2026-11-26
+ELB,Dedicated application LB (HTTP/HTTPS) Small I,1 AZ,per hour,0.0695,,Huawei Cloud Price Calculator - Product Pricing Details - ELB - TR-Istanbul,2026-11-26
+ELB,Dedicated application LB (HTTP/HTTPS) Small I,2 AZ,per hour,0.139,,Huawei Cloud Price Calculator - Product Pricing Details - ELB - TR-Istanbul,2026-11-26
+CCE Autopilot,Cluster management,,per hour,0.1,,support.huaweicloud.com/intl/en-us/price-cce-autopilot/cce_03_0005.html (updated 2026-09-20),2026-11-26
+CCE Autopilot,General-computing pod vCPU,,per vCPU-hour,0.04032,,support.huaweicloud.com/intl/en-us/price-cce-autopilot/cce_03_0005.html (updated 2026-09-20),2026-11-26
+CCE Autopilot,General-computing pod memory,,per GiB-hour,0.004428,,support.huaweicloud.com/intl/en-us/price-cce-autopilot/cce_03_0005.html (updated 2026-09-20),2026-11-26
